@@ -7,5 +7,5 @@
 
 学习内容主要来自[CS自学指南](https://github.com/pkuflyingpig/cs-self-learning/)
 
-`%Y-%m-%d %H:%M:%S`
+3.10
 学习了一点关于shell的知识，一些基本的命令，了解了一些终端上显示的字符的意义。啃起来有点吃力，万事开头难嘛
